@@ -260,6 +260,7 @@ img#me {
 .container {
   width: 100vw;
   margin-left: 10px;
+  margin-right: 10px;
   display: wrap;
   padding-left: 10px;
 }
@@ -280,3 +281,6 @@ img#me {
   align-items: center;
   text-align: center;
 }
+    .logo {
+     font-size: 14px; 
+    }
