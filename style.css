@@ -6,10 +6,15 @@
   padding: 0;
 }
 
+html, body {
+   overflow-x: hidden;
+}
+
 body {
 font-family: 'Open Sans', sans-serif ;
 color: #222;
 padding-bottom: 50px;
+  position: relative;
 
 }
 
