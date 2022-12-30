@@ -213,7 +213,7 @@ img#me {
 
             /*CONTACT FORM*/
       #contact {
-        padding-left: 43%;
+        text-align: center;
         margin-top: 50px;
       }
             .contact-form{
@@ -222,6 +222,8 @@ img#me {
               padding: 10px 20px;
               border-radius: 10px;
               margin: auto;
+              align-items: center;
+              
              }
              
              input {
@@ -270,3 +272,11 @@ img#me {
     .nav.container {
       width: 100vw;
              }
+
+    #contact {
+  margin: auto;
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
