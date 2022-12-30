@@ -221,8 +221,7 @@ img#me {
               width: 330px;
               padding: 10px 20px;
               border-radius: 10px;
-              margin-left: 40%;
-              margin-top: 30px;
+              margin: auto;
              }
              
              input {
@@ -253,4 +252,13 @@ img#me {
                border: none;
                margin-top: 7px;
                padding: 8px;
+             }
+
+  @media (max-width: 600px) {
+.container {
+  width: 100vw;
+}
+.contact-form {
+  margin: auto;
+}
              }
