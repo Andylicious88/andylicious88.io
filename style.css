@@ -257,6 +257,8 @@ img#me {
   @media (max-width: 600px) {
 .container {
   width: 100vw;
+  margin-left: 10px;
+  display: wrap;
 }
 .contact-form {
   margin: auto;
