@@ -263,4 +263,6 @@ img#me {
 .contact-form {
   margin: auto;
 }
+    .nav.container {
+      width: 100vw;
              }
