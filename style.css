@@ -282,6 +282,9 @@ text-align: center;
     .nav.container {
       width: 100vw;
              }
+    .nav a{
+  padding: 3px 7px;
+}
    #me {
    padding-right: 5px;
 }
