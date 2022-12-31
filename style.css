@@ -269,6 +269,10 @@ img#me {
   display: wrap;
   padding-left: 10px;
 }
+#about, #projects {
+text-align: center;
+}
+
 .contact-form {
   margin: auto;
 }
@@ -278,7 +282,9 @@ img#me {
     .nav.container {
       width: 100vw;
              }
-
+   #me {
+   padding-right: 5px;
+}
     #contact {
   margin: auto;
   display: flexbox;
